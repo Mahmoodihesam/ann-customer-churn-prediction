@@ -66,3 +66,11 @@ Model performance was evaluated using a confusion matrix and classification metr
 - TensorFlow
 - Keras
 - Matplotlib
+
+Author
+
+Mohammad Hesam Mahmoudi
+
+Computer Science Student | AI & Machine Learning | Python
+
+GitHub: Mahmoodihesam⁠
